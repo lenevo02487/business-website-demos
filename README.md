@@ -35,4 +35,4 @@ Want a clean one-page website or landing page like this for your business?
 - Fiverr gig (from $80): https://www.fiverr.com/lenevo509/build-a-clean-business-website-or-landing-page-for-you
 - LinkedIn: https://www.linkedin.com/in/abhishek-phukan-a220b9448/
 
-*Built by Abhishek Phukan — Python Automation Developer & Website Builder, Digboi, Assam, India.*
+*Built by Abhishek Phukan — Python Automation Developer & Website Builder.*
